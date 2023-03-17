@@ -1,0 +1,10 @@
+Instrucoes Aula 2022-12-06
+
+No workspace do VSCode acessar a pasta aula_2022_12_06
+
+Abrir Terminal do VSCode
+
+docker build -f .\airflow\Dockerfile -t airflow-fia:latest .\airflow\
+
+docker-compose -f .\docker-compose.yaml up -d
+

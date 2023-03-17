@@ -1,0 +1,12 @@
+{
+  "minio_s3": {
+    "conn_type": "s3",
+    "description": "Minio S3",
+    "login": null,
+    "password": null,
+    "host": null,
+    "port": null,
+    "schema": null,
+    "extra": "{\"aws_access_key_id\":\"aula_fia\",\"aws_secret_access_key\":\"aula_fia@123\",\"host\":\"http://minio:9000\"}"
+  }
+}
